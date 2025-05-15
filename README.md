@@ -42,7 +42,7 @@ You can view my resume [here](https://*********). *(Update this with your actual
 
 ## 📫 Contact
 
-- [Email](keke.ac.za.cput@gmail.com)
+- Send me an email : keke.ac.za.cput@gmail.com
   
 ---
 
