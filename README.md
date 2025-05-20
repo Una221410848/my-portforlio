@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Unathi Keke
 
-![my image](https://drive.google.com/Example.jpg) 
+![my image](https://drive.google.com/file/d/1M5tXT_ht24eANSPO5VpLWA3aRifhqhCK/view?pli=1) 
 
 Welcome to my digital portfolio! This is a summary of my achievements and skills from the Work Readiness Training program.
 
