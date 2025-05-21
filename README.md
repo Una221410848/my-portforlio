@@ -23,6 +23,10 @@ Welcome to my digital portfolio! This is a summary of my achievements and skills
 - REFLECTION: 
 - CV SUBMISSION
 - EVIDENCE 
+## 📜 Resume
+
+You can view my resume [here](https://*********).
+
 - REFLECTION:
 
 ---
@@ -40,8 +44,10 @@ Welcome to my digital portfolio! This is a summary of my achievements and skills
 ## 📁 Projects
 
 ### 📚 Team Project: Career Skills Presentation
-- Collaborated with a team of 4 to create a presentation on workplace etiquette
-- Used Google Slides and presented to a panel of mentors
+- Collaborating with a team of 5 to develop an e-commerce platform selling brain boost shots from a well known company called Sir. Inc
+* R12,50c for a 100ml bottle 
+* Ranges up to R150 for a pack of 12 shots. 
+- Languages used: Html, Css, Javascript 
 
 ### 🧠 Mock Interview Challenge
 - Simulated interviews with industry professionals
@@ -49,11 +55,6 @@ Welcome to my digital portfolio! This is a summary of my achievements and skills
 
 ---
 
-## 📜 Resume
-
-You can view my resume [here](https://*********). *(Update this with your actual link)*
-
----
 
 ## 📫 Contact
 
