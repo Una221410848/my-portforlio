@@ -59,7 +59,7 @@ You can view my resume [here](https://*********).
 ## 📫 Contact
 
 - Send me an email : keke.ac.za.cput@gmail.com
-- GitHub: [@my-portfolio](https://github.com/my-portfolio)
+- GitHub: [@my-portfolio](https://github.com/Una221410848/my-portfolio)
 ---
 
 ~THE END~
