@@ -9,9 +9,21 @@ Welcome to my digital portfolio! This is a summary of my achievements and skills
 
 ## 💼 Work Readiness Training
 
-- ✅ Completed workshops on time management, communication, and teamwork
-- ✅ Learned resume writing and interview preparation techniques
-- ✅ Participated in group projects and professional simulations
+-CAREER COUNSELLING
+-EVIDENCE 
+-REFLECTION: 
+-SKILLS AND INTERESTS
+-EVIDENCE 
+-REFLECTION:
+-PERSONALITY ASSESSMENT
+-EVIDENCE 
+-REFLECTION:
+-CREATE A CV
+-EVIDENCE 
+-REFLECTION: 
+-CV SUBMISSION
+-EVIDENCE 
+-REFLECTION:
 
 ---
 
