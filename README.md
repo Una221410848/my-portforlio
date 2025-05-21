@@ -62,4 +62,4 @@ You can view my resume [here](https://*********).
   
 ---
 
-Thank you for visiting!
+~THE END~
