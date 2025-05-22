@@ -18,10 +18,10 @@ Welcome to my digital portfolio! This is a summary of my achievements and skills
 3. PERSONALITY ASSESSMENT
 - EVIDENCE 
 - REFLECTION:
-3. CREATE A CV
+4. CREATE A CV
 - EVIDENCE 
 - REFLECTION: 
-3. CV SUBMISSION
+5. CV SUBMISSION
 - EVIDENCE
 - REFLECTION:
   
