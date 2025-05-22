@@ -23,13 +23,12 @@ Welcome to my digital portfolio! This is a summary of my achievements and skills
 - REFLECTION: 
 3. CV SUBMISSION
 - EVIDENCE
-- REFLECTION
+- REFLECTION:
   
 ## 📜 Resume
 
 You can view my resume [here](https://*********).
 
-- REFLECTION:
 
 ---
 
