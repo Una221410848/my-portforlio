@@ -1,7 +1,6 @@
 ### 👋*Hello, I'm Unathi Keke*
 
- ![My Photo](IMG_20241027_143950.jpg)
- * <img src="IMG_20241027_143950.jpg" alt="My Photo" width="400" height="250"/>
+ * <img src="IMG_20241027_143950.jpg" alt="My Photo" width="250" height="250"/>
 
 
 Welcome to my digital portfolio! This is a summary of my achievements and skills from the Work Readiness Training program.
