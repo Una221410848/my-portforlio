@@ -15,7 +15,7 @@ Welcome to my digital portfolio! This is a summary of my achievements and skills
 - REFLECTION: 
 2. SKILLS AND INTERESTS
 - EVIDENCE
-  * ![My Photo](profile.jpg)
+  * ![My Photo](Skills&Interests.png)
 - REFLECTION:
 3. PERSONALITY ASSESSMENT
 - EVIDENCE
