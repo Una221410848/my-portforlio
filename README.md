@@ -29,6 +29,14 @@ Welcome to my digital portfolio! This is a summary of my achievements and skills
 - EVIDENCE
   * ![My Photo](Skills&Interests.png)
 #### REFLECTION:
+1. Situation:
+* As part of my ongoing personal and academic development, I completed the "Skills and Interests" formative assessment. The goal of this activity was to help me better understand my core values, interests, and strengths in preparation for future career planning and self-awareness.
+2. Task:
+* I was required to complete the full assessment, which included various SCO (Sharable Content Object) modules related to skills, interests, and values. I needed to ensure full participation and demonstrate comprehension through quiz-based responses.
+3. Action:
+* I dedicated 30 minutes and 47 seconds to carefully going through all the content. Despite some technical sections scoring 0% (possibly due to formatting or data display issues), I ensured that my answers were accurate, as confirmed by the "Correct" result indicators. I focused on completing the entire module thoroughly and thoughtfully.
+4.Result:
+* I achieved a final score of 100/100, with the system marking the assessment as 100% attempted and complete. This demonstrates that I fully engaged with the content and achieved a strong understanding of the skills and values discussed. It also highlights my ability to work independently, follow instructions, and manage time effectively.
 ### PERSONALITY ASSESSMENT
 - EVIDENCE
   * ![My Photo](Personality.png)
