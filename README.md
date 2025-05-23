@@ -53,6 +53,14 @@ Welcome to my digital portfolio! This is a summary of my achievements and skills
 - EVIDENCE
   * ![My Photo](CreateCV.png)
 #### REFLECTION: 
+1. Situation:
+* I was tasked with completing an online learning module titled "Create a CV." This was a formative assessment designed to enhance my understanding of how to construct an effective curriculum vitae. The module was self-paced and involved engaging with content and answering quiz questions.
+2. Task:
+* My objective was to fully complete the module, understand the key concepts presented, and demonstrate this understanding through the embedded assessments. The ultimate goal was to achieve a satisfactory score and gain practical knowledge applicable to creating or improving my own CV.
+3. Action:
+* I dedicated focused time to the module, spending 27 minutes and 56 seconds to go through all the material, ensuring I attempted 100% of the content. This included carefully reviewing the information provided and then answering the quiz questions. For instance, I responded to questions like "What is the primary purpose of a CV?" and "What is the purpose of the 'work experience' section in a CV?". 
+4. Result:
+* I successfully completed the module with a "Final Mark" of 100/100, which was very encouraging. The detailed breakdown showed that while the overall status was "Complete," I initially answered the question
 ### CV SUBMISSION
 - EVIDENCE
   * ![My Photo](CvSub.png)
