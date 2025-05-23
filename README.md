@@ -1,4 +1,4 @@
-### 👋 WELCOME
+### 👋*WELCOME TO MY PAGE*
 
 ![profile](https://drive.google.com/uc?export=view&id=1M5tXT_ht24eANSPO5VpLWA3aRifhqhCK)
 
@@ -65,7 +65,14 @@ Welcome to my digital portfolio! This is a summary of my achievements and skills
 - EVIDENCE
   * ![My Photo](CvSub.png)
 #### REFLECTION:
-
+1.Situation:
+* I was tasked with submitting my Curriculum Vitae for a "Formative" assessment. The submission was likely for review, feedback, and practice rather than a high-stakes graded assignment. The platform required the CV to be uploaded as a PDF document.
+2. Task:
+* My main task was to compile my personal and professional information into a coherent and presentable CV. This involved deciding on the content, structure, and formatting of the document. Specifically, I needed to articulate an "Objective" and include "Personal Details," among other sections, and then successfully submit this 5-page document through the online portal/GitHub.
+3. Action:
+* I drafted my CV, ensuring it included key sections. As seen on the first page, I formulated an "Objective" statement: "To secure a challenging position in a reputable organization to expand my computer knowledge and skills." I also listed "Personal Details," including my Date of Birth (21 October 2002) and the languages I speak (IsiXhosa, English). I chose a particular font for the document, which appears to be a handwritten style. After completing the 5-page CV, I saved it as a PDF named "221410848.pdf" and successfully uploaded it to the submission portal on March 7th, 2025, at 15:09. I received a submission receipt (RECEIPT: 871BA65B22F74A6D87BDF609FB7C70D1) as confirmation.
+4. Result:
+* The CV was successfully submitted, and I have a digital receipt as proof. The document is now ready for review and feedback as part of the formative assessment process. This submission is a concrete step towards having a prepared CV for future job applications. Reflecting on the content, the objective is clear, though perhaps could be more specific to a particular role or industry in future iterations. The inclusion of D.O.B. is something I might reconsider depending on application contexts, as it's not always standard. The font choice is also something to evaluate for professional contexts; while distinctive, a more traditional font might be more universally accepted. I look forward to receiving feedback to further refine my CV.
 ---
 
 ## 🔧 Skills
@@ -81,23 +88,14 @@ Welcome to my digital portfolio! This is a summary of my achievements and skills
 ## 📁 Projects
 
 ### 📚 Team Project: Career Skills Presentation
-- Collaborating with a team of 5 to develop an e-commerce platform selling brain boost shots from a well known company called Sir. Inc
-* R12,50c for a 100ml bottle 
-* Ranges up to R150 for a pack of 12 shots. 
-- Languages used: Html, Css, Javascript 
-
-### 🧠 Mock Interview Challenge
-- Simulated interviews with industry professionals
-- Received detailed feedback and improved delivery
-
+- Collaborating with a team of 5 to develop an e-commerce platform selling jewellery for a CapStone project in one of my modules.
+- Participating in another project creating a Health monitoring System.
 ---
 
+## 📫 Contact Info
 
-## 📫 Contact
-
-- Send me an email : keke.ac.za.cput@gmail.com
+- Send me an email : 221410848@mycput.ac.za
 - GitHub account : [@my-portfolio](https://github.com/Una221410848/my-portforlio/blob/main/README.md?plain=1)
-
 ---
 
-~THE END~
+Thank you for visiting...
