@@ -9,38 +9,38 @@ Welcome to my digital portfolio! This is a summary of my achievements and skills
 
 ## 💼 *Work Readiness Training*
 
-1. CAREER COUNSELLING
+### CAREER COUNSELLING
 - EVIDENCE
   * ![My Photo](CareerDev.png) 
-- REFLECTION:
-  * S – Situation
-- As part of my work readiness training, I completed a Career Development module designed to assess my understanding of personal growth, career planning, and goal setting in the workplace. The assessment was comprehensive, covering both theoretical and applied knowledge through scenario-based questions.
-* T – Task
-- My goal was to complete the module with full effort, demonstrate my understanding of the subject matter, and achieve a strong score that reflects my readiness to apply career development strategies in real-world contexts.
-* A – Action
-- I dedicated focused time to engage with the content, reviewed relevant materials, and answered each question with care and reflection. Although two individual sub-questions were marked at 0%, I reviewed the instructions thoroughly and ensured I completed the full assessment, spending over 21 minutes on it. I also maintained integrity and did not rush, aiming for comprehension over speed.
-* R – Result
-- I successfully completed the module with a final score of 100/100 and a 100% completion rate, as reflected in the report. This demonstrates both my commitment and mastery of the core concepts in career development. The high score is evidence of my ability to internalize key career guidance principles and apply them effectively in a structured setting.
+ #### REFLECTION:
+1.  S – Situation
+* As part of my work readiness training, I completed a Career Development module designed to assess my understanding of personal growth, career planning, and goal setting in the workplace. The assessment was comprehensive, covering both theoretical and applied knowledge through scenario-based questions.
+2. T – Task
+* My goal was to complete the module with full effort, demonstrate my understanding of the subject matter, and achieve a strong score that reflects my readiness to apply career development strategies in real-world contexts.
+3. A – Action
+* I dedicated focused time to engage with the content, reviewed relevant materials, and answered each question with care and reflection. Although two individual sub-questions were marked at 0%, I reviewed the instructions thoroughly and ensured I completed the full assessment, spending over 21 minutes on it. I also maintained integrity and did not rush, aiming for comprehension over speed.
+4. R – Result
+* I successfully completed the module with a final score of 100/100 and a 100% completion rate, as reflected in the report. This demonstrates both my commitment and mastery of the core concepts in career development. The high score is evidence of my ability to internalize key career guidance principles and apply them effectively in a structured setting.
 ##### ✅ What I Learned
 * Setting clear goals and reflecting on career paths is essential to long-term success.
 * Time investment and thoughtful engagement significantly improve learning outcomes
 * Even if a few individual items are scored differently, overall performance and comprehension matter most.
-2. SKILLS AND INTERESTS
+### SKILLS AND INTERESTS
 - EVIDENCE
   * ![My Photo](Skills&Interests.png)
-- REFLECTION:
-3. PERSONALITY ASSESSMENT
+#### REFLECTION:
+### PERSONALITY ASSESSMENT
 - EVIDENCE
   * ![My Photo](Personality.png)
-- REFLECTION:
-4. CREATE A CV
+#### REFLECTION:
+### CREATE A CV
 - EVIDENCE
   * ![My Photo](CreateCV.png)
-- REFLECTION: 
-5. CV SUBMISSION
+#### REFLECTION: 
+### CV SUBMISSION
 - EVIDENCE
   * ![My Photo](CvSub.png)
-- REFLECTION:
+#### REFLECTION:
 
 ---
 
