@@ -51,7 +51,7 @@ Welcome to my digital portfolio! This is a summary of my achievements and skills
 * The assessment was marked as 100% completed and I received a perfect score of 100/100. This outcome reflects my strong comprehension of the subject matter and my ability to apply psychological concepts in practical contexts. It also indicates a high level of self-awareness and preparedness for career planning based on personal traits.
 ### CREATE A CV
 - EVIDENCE
-  * <img src="CreateCV.jpg" alt="My Photo" width="500" height="400"/>
+  * <img src="CreateCV.png" alt="My Photo" width="500" height="400"/>
 #### REFLECTION: 
 1. Situation:
 * I was tasked with completing an online learning module titled "Create a CV." This was a formative assessment designed to enhance my understanding of how to construct an effective curriculum vitae. The module was self-paced and involved engaging with content and answering quiz questions.
