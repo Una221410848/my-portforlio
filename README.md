@@ -14,16 +14,20 @@ Welcome to my digital portfolio! This is a summary of my achievements and skills
   * ![My Photo](CareerDev.png) 
 - REFLECTION: 
 2. SKILLS AND INTERESTS
-- EVIDENCE 
+- EVIDENCE
+  * ![My Photo](profile.jpg)
 - REFLECTION:
 3. PERSONALITY ASSESSMENT
-- EVIDENCE 
+- EVIDENCE
+  * ![My Photo](Personality.png)
 - REFLECTION:
 4. CREATE A CV
-- EVIDENCE 
+- EVIDENCE
+  * ![My Photo](CreateCv.png)
 - REFLECTION: 
 5. CV SUBMISSION
 - EVIDENCE
+  * ![My Photo](CvSub.png)
 - REFLECTION:
 
 ---
