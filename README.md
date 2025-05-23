@@ -11,7 +11,7 @@ Welcome to my digital portfolio! This is a summary of my achievements and skills
 
 ### CAREER COUNSELLING
 - EVIDENCE
-  * <img src="CareerDev.jpg" alt="My Photo" width="250" height="250"/>
+  * <img src="CareerDev.png" alt="My Photo" width="500" height="500"/>
  #### REFLECTION:
 1.  Situation
 * As part of my work readiness training, I completed a Career Development module designed to assess my understanding of personal growth, career planning, and goal setting in the workplace. The assessment was comprehensive, covering both theoretical and applied knowledge through scenario-based questions.
