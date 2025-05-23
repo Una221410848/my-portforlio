@@ -13,13 +13,13 @@ Welcome to my digital portfolio! This is a summary of my achievements and skills
 - EVIDENCE
   * ![My Photo](CareerDev.png) 
  #### REFLECTION:
-1.  S – Situation
+1.  Situation
 * As part of my work readiness training, I completed a Career Development module designed to assess my understanding of personal growth, career planning, and goal setting in the workplace. The assessment was comprehensive, covering both theoretical and applied knowledge through scenario-based questions.
-2. T – Task
+2. Task
 * My goal was to complete the module with full effort, demonstrate my understanding of the subject matter, and achieve a strong score that reflects my readiness to apply career development strategies in real-world contexts.
-3. A – Action
+3. Action
 * I dedicated focused time to engage with the content, reviewed relevant materials, and answered each question with care and reflection. Although two individual sub-questions were marked at 0%, I reviewed the instructions thoroughly and ensured I completed the full assessment, spending over 21 minutes on it. I also maintained integrity and did not rush, aiming for comprehension over speed.
-4. R – Result
+4. Result
 * I successfully completed the module with a final score of 100/100 and a 100% completion rate, as reflected in the report. This demonstrates both my commitment and mastery of the core concepts in career development. The high score is evidence of my ability to internalize key career guidance principles and apply them effectively in a structured setting.
 ##### ✅ What I Learned
 * Setting clear goals and reflecting on career paths is essential to long-term success.
@@ -35,7 +35,7 @@ Welcome to my digital portfolio! This is a summary of my achievements and skills
 * I was required to complete the full assessment, which included various SCO (Sharable Content Object) modules related to skills, interests, and values. I needed to ensure full participation and demonstrate comprehension through quiz-based responses.
 3. Action:
 * I dedicated 30 minutes and 47 seconds to carefully going through all the content. Despite some technical sections scoring 0% (possibly due to formatting or data display issues), I ensured that my answers were accurate, as confirmed by the "Correct" result indicators. I focused on completing the entire module thoroughly and thoughtfully.
-4.Result:
+4. Result:
 * I achieved a final score of 100/100, with the system marking the assessment as 100% attempted and complete. This demonstrates that I fully engaged with the content and achieved a strong understanding of the skills and values discussed. It also highlights my ability to work independently, follow instructions, and manage time effectively.
 ### PERSONALITY ASSESSMENT
 - EVIDENCE
