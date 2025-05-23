@@ -11,7 +11,7 @@ Welcome to my digital portfolio! This is a summary of my achievements and skills
 
 ### CAREER COUNSELLING
 - EVIDENCE
-  * <img src="CareerDev.png" alt="My Photo" width="500" height="500"/>
+  * <img src="CareerDev.png" alt="My Photo" width="500" height="400"/>
  #### REFLECTION:
 1.  Situation
 * As part of my work readiness training, I completed a Career Development module designed to assess my understanding of personal growth, career planning, and goal setting in the workplace. The assessment was comprehensive, covering both theoretical and applied knowledge through scenario-based questions.
@@ -27,7 +27,7 @@ Welcome to my digital portfolio! This is a summary of my achievements and skills
 * Even if a few individual items are scored differently, overall performance and comprehension matter most.
 ### SKILLS AND INTERESTS
 - EVIDENCE
-  * <img src="Skills&Interests.png" alt="My Photo" width="250" height="250"/>
+  * <img src="Skills&Interests.png" alt="My Photo" width="500" height="400"/>
 #### REFLECTION:
 1. Situation:
 * As part of my ongoing personal and academic development, I completed the "Skills and Interests" formative assessment. The goal of this activity was to help me better understand my core values, interests, and strengths in preparation for future career planning and self-awareness.
@@ -39,7 +39,7 @@ Welcome to my digital portfolio! This is a summary of my achievements and skills
 * I achieved a final score of 100/100, with the system marking the assessment as 100% attempted and complete. This demonstrates that I fully engaged with the content and achieved a strong understanding of the skills and values discussed. It also highlights my ability to work independently, follow instructions, and manage time effectively.
 ### PERSONALITY ASSESSMENT
 - EVIDENCE
-  *  <img src="Personality.png" alt="My Photo" width="250" height="250"/>
+  *  <img src="Personality.png" alt="My Photo" width="500" height="400"/>
 #### REFLECTION:
 1. Situation:
 * As part of a self-development module, I participated in a formative "Personality Assessment" designed to evaluate how personality traits align with potential career paths. The goal was to gain deeper insight into my personality type and how it might influence my career decisions.
@@ -51,7 +51,7 @@ Welcome to my digital portfolio! This is a summary of my achievements and skills
 * The assessment was marked as 100% completed and I received a perfect score of 100/100. This outcome reflects my strong comprehension of the subject matter and my ability to apply psychological concepts in practical contexts. It also indicates a high level of self-awareness and preparedness for career planning based on personal traits.
 ### CREATE A CV
 - EVIDENCE
-  * <img src="CreateCV.jpg" alt="My Photo" width="250" height="250"/>
+  * <img src="CreateCV.jpg" alt="My Photo" width="500" height="400"/>
 #### REFLECTION: 
 1. Situation:
 * I was tasked with completing an online learning module titled "Create a CV." This was a formative assessment designed to enhance my understanding of how to construct an effective curriculum vitae. The module was self-paced and involved engaging with content and answering quiz questions.
@@ -63,7 +63,7 @@ Welcome to my digital portfolio! This is a summary of my achievements and skills
 * I successfully completed the module with a "Final Mark" of 100/100, which was very encouraging. The detailed breakdown showed that while the overall status was "Complete," I initially answered the question
 ### CV SUBMISSION
 - EVIDENCE
-  * <img src="CvSub.png" alt="My Photo" width="250" height="250"/>
+  * <img src="CvSub.png" alt="My Photo" width="500" height="400"/>
 #### REFLECTION:
 1.Situation:
 * I was tasked with submitting my Curriculum Vitae for a "Formative" assessment. The submission was likely for review, feedback, and practice rather than a high-stakes graded assignment. The platform required the CV to be uploaded as a PDF document.
