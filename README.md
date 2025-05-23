@@ -41,6 +41,14 @@ Welcome to my digital portfolio! This is a summary of my achievements and skills
 - EVIDENCE
   * ![My Photo](Personality.png)
 #### REFLECTION:
+1. Situation:
+* As part of a self-development module, I participated in a formative "Personality Assessment" designed to evaluate how personality traits align with potential career paths. The goal was to gain deeper insight into my personality type and how it might influence my career decisions.
+2. Task:
+* I was required to complete the full assessment, which consisted of several SCO (Sharable Content Object) components focusing on personality theory and career matching. The task involved accurately answering questions based on content I had studied.
+3. Action:
+* I approached the task thoughtfully and efficiently, completing the entire assessment in 12 minutes and 12 seconds. I reviewed each question with care, applying my understanding of how personality can impact career choice. I also ensured I answered each part of the assessment with full attention to detail.
+4. Result:
+* The assessment was marked as 100% completed and I received a perfect score of 100/100. This outcome reflects my strong comprehension of the subject matter and my ability to apply psychological concepts in practical contexts. It also indicates a high level of self-awareness and preparedness for career planning based on personal traits.
 ### CREATE A CV
 - EVIDENCE
   * ![My Photo](CreateCV.png)
