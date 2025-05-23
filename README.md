@@ -23,7 +23,7 @@ Welcome to my digital portfolio! This is a summary of my achievements and skills
 - REFLECTION:
 4. CREATE A CV
 - EVIDENCE
-  * ![My Photo](CreateCv.png)
+  * ![My Photo](CreateCV.png)
 - REFLECTION: 
 5. CV SUBMISSION
 - EVIDENCE
