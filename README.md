@@ -10,7 +10,8 @@ Welcome to my digital portfolio! This is a summary of my achievements and skills
 ## 💼 *Work Readiness Training*
 
 1. CAREER COUNSELLING
-- EVIDENCE 
+- EVIDENCE
+  * ![My Photo](CareerDev.png) 
 - REFLECTION: 
 2. SKILLS AND INTERESTS
 - EVIDENCE 
